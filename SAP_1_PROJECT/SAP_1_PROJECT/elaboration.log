@@ -1,0 +1,38 @@
+Active-HDL 15.0.261.9132 2024-05-17 00:25:14
+
+Elaboration top modules:
+Architecture                  SAP_1(SAP_1)
+
+
+---------------------------------------------------------------------------------------------------------------------
+Entity               | Architecture         | Library       | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------------
+SAP_1                | SAP_1                | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+ALU                  | ARCH                 | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+ACCUMULATOR          | ACCUMULATOR          | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+B_REGISTER           | B_REGISTER           | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+OUTPUT_REGISTER      | Behavoral            | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+program_Counter      | behavorial           | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+MAR                  | MAR                  | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+RAM                  | BEHAVORAL            | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+INSTRUCTION_REGISTER | INSTRUCTION_REGISTER | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+CONTROLLER_SEQUANCER | CONTROLLER_SEQUANCER | sap_1_project |      | 15.0.261.9132 (Windows64) | -O3
+---------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------
+VHDL Package                                | Library       | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------------
+standard                                    | std           |      |                           | <unavailable>
+TEXTIO                                      | std           |      | 15.0.261.9132 (Windows64) |  -2019
+std_logic_1164                              | ieee          |      | 15.0.261.9132 (Windows64) |  -2008
+std_logic_arith                             | ieee          |      | 15.0.261.9132 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED                          | ieee          |      | 15.0.261.9132 (Windows64) | <unavailable>
+---------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------
+Library                                     | Comment
+---------------------------------------------------------------------------------------------------------------------
+ieee                                        | Standard IEEE packages library
+sap_1_project                               | None
+std                                         | Standard VHDL library
+---------------------------------------------------------------------------------------------------------------------

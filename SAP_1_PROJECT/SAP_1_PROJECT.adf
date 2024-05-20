@@ -1,0 +1,47 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=SAP_1_PROJECT
+[Library]
+SAP_1_PROJECT=.\SAP_1_PROJECT\SAP_1_PROJECT.lib
+[$LibMap$]
+SAP_1_PROJECT=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=Lattice iCE40UP
+fileopenfolder=C:\Users\asus\Downloads
+[Files]
+/ALU.vhd=-1
+/ACCUMULATOR.vhd=-1
+/design_compile.do=-1
+/Output_Register.vhd=-1
+/PC.vhd=-1
+/RAM.vhd=-1
+/INSTRUCTION_REGISTER.vhd=-1
+/MAR.vhd=-1
+/B_REGISTER.vhd=-1
+/CONTROLLER_SEQUANCER.vhd=-1
+/SAP_1.vhd=-1
+[Files.Data]
+.\src\ALU.vhd=VHDL Source Code
+.\src\ACCUMULATOR.vhd=VHDL Source Code
+.\src\design_compile.do=Macro
+.\src\Output_Register.vhd=VHDL Source Code
+.\src\PC.vhd=VHDL Source Code
+.\src\RAM.vhd=VHDL Source Code
+.\src\INSTRUCTION_REGISTER.vhd=VHDL Source Code
+.\src\MAR.vhd=VHDL Source Code
+.\src\B_REGISTER.vhd=VHDL Source Code
+.\src\CONTROLLER_SEQUANCER.vhd=VHDL Source Code
+.\src\SAP_1.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=sap_1|sap_1|0
+ShowHide=ShowTopLevel
+Selected=

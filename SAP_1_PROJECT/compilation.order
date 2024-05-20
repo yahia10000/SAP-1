@@ -1,0 +1,10 @@
+.\src\ALU.vhd
+.\src\ACCUMULATOR.vhd
+.\src\Output_Register.vhd
+.\src\PC.vhd
+.\src\RAM.vhd
+.\src\INSTRUCTION_REGISTER.vhd
+.\src\MAR.vhd
+.\src\B_REGISTER.vhd
+.\src\CONTROLLER_SEQUANCER.vhd
+.\src\SAP_1.vhd
